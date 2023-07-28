@@ -1,6 +1,10 @@
 # ✏️ Udemy { SwiftUI MasterClass 2023 } 스터디
 ## 👩‍💻 스터디 멤버
-[`수빈`](https://github.com/realhsb)	`호준`	`허브`	`samin`	`Tony`	`필비`	`우디`	`새벽`	`래영`	`이제현`	`은선`
+✨ [1조](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study-1)
+
+✨ [2조](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study-2)
+
+✨ [3조](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study-3)
 
 ## 📌 스터디 목표
 ![image](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study/assets/66006225/aa4068dc-b15f-4298-9cbe-2669f14ceb12)
